@@ -1,4 +1,4 @@
-# uso de calese de un vector
+# uso de clase de un vector
 
 # Descripción
 
