@@ -1,5 +1,6 @@
 # uso de calese de un vector
-Descripción
+
+# Descripción
 
 Este programa permite administrar un inventario de productos utilizando un struct Producto y un único vector<Producto>. Cada producto contiene su nombre y precio. El programa muestra los productos registrados, permite modificar el precio de un producto, calcula el precio promedio del inventario y utiliza at() para acceder de forma segura a un producto por su posición.
 
