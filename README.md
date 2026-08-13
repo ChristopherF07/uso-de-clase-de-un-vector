@@ -1,0 +1,1 @@
+# uso de calese de un vector
